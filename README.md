@@ -38,9 +38,9 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 5.Repeat steps 2-4 for each bit you want to input and shift.
 
-Developed by:THIRUMALAI P 
+Developed by:VIGNESH V
 
-RegisterNumber:24900297
+RegisterNumber:24900753
 
 **PROGRAM**
 
@@ -78,4 +78,5 @@ endmodule
 ![DE EX 11 TABULAR ](https://github.com/user-attachments/assets/937a66bc-8681-4fd4-8d5b-75814e45c059)
 
 **RESULTS**
+
 Hence a 4 bit synchronous up counter is implemented correctly and program code is successfully executed.
